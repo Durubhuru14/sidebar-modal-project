@@ -68,9 +68,7 @@ Key design elements:
 ├── src
 │   ├── App.jsx
 │   ├── assets
-│   │   ├── react.svg
-│   │   ├── sidebar-modal-screenshot.png
-│   │   └── figma-design.png
+│   │   └── react.svg
 │   ├── context.jsx           # Context API implementation
 │   ├── data.jsx             # Navigation and social links data
 │   ├── Home.jsx             # Main page with toggle buttons
